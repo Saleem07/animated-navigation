@@ -98,7 +98,7 @@ nav li:nth-of-type(5) {
   background-color: var(--navColor5);
 }
 
-/* --- Menu Bars ------------------------------------ */
+/* --- Menu Bars ----*/
 
 .menu-bars {
   position: fixed;
@@ -160,7 +160,7 @@ section#home a {
   top: 1.5rem;
   left: 1.5rem;
   text-decoration: none;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   padding-bottom: 5px;
   color: var(--navColor1);
   border-bottom: 1px solid var(--navColor1);
