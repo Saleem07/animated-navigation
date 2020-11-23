@@ -17,7 +17,7 @@ const toggleNav = () => {
     overlay.classList.remove("overlay-slide-right");
   }
 };
-
+//Event listeners
 menuBars.addEventListener("click", toggleNav);
 nav1.addEventListener("click", toggleNav);
 nav2.addEventListener("click", toggleNav);
